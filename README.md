@@ -1,17 +1,17 @@
 <h1 align="center">Hi there 👋, Nilesh Aithani here !</h1>
-<h3 align="center">A young front end developer from India</h3>
+<h3 align="center">A young Front-end Developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/nileshaithanii" target="blank"><img src="https://img.shields.io/twitter/follow/nileshaithanii?logo=twitter&style=for-the-badge" alt="nileshaithanii" /></a> </p>
 
 - 🔭 I’m currently working on [My Profile Website](https://github.com/NileshAithani/Profile-Website)
 
-- 👨‍💻 All of my projects are available at [https://github.com/NileshAithani](https://github.com/NileshAithani)
+- 👨‍💻 All of my projects are available at [NileshAithani](https://github.com/NileshAithani)
 
 - 💬 Ask me about **Core java, Css, Data Structure & Algorithm**
 
 - 📫 Reach me at **nileshaithani007@gmail.com**
 
-- 📄 Check out my [https://drive.google.com/file/d/13opzTvWToGL12Y1GXVO0SDgWPSOcoHpl/view?usp=sharing](https://drive.google.com/file/d/13opzTvWToGL12Y1GXVO0SDgWPSOcoHpl/view?usp=sharing)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/13opzTvWToGL12Y1GXVO0SDgWPSOcoHpl/view?usp=sharing)
 
 - ⚡ Fun fact **Chai tastes way better than Coffe | Change my mind!**
 
