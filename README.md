@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/nileshaithanii" target="blank"><img src="https://img.shields.io/twitter/follow/nileshaithanii?logo=twitter&style=for-the-badge" alt="nileshaithanii" /></a> </p>
 
-- 🔭 I’m currently working on [My Profile Website](https://github.com/NileshAithani/Profile-Website)
+- 🔭 I’m currently working on [My Profile Website](https://github.com/NileshAithani/Portfolio-Website)
 
 - 👨‍💻 All of my projects are available at [NileshAithani](https://github.com/NileshAithani)
 
