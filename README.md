@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **nileshaithani007@gmail.com**
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/13opzTvWToGL12Y1GXVO0SDgWPSOcoHpl/view?usp=sharing)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/10P8yDp7h1ieHtDkGXZzxY0X1Bea3ZOKj/view?usp=sharing)
 
 - ⚡ Fun fact **Chai tastes way better than Coffe | Change my mind!**
 
